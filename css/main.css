@@ -49,12 +49,8 @@ article > p:last-child {
   padding-bottom: 1rem;
 }
 
-article p:nth-child(2) {
+article p {
   margin-bottom: 10px;
-}
-
-article p:nth-child(3) {
-  margin-top: 0;
 }
 
 blockquote {
