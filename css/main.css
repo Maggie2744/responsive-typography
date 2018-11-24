@@ -41,7 +41,7 @@ article header {
 article header p {
   font-style: italic;
   margin-top: 0;
-  padding-bottom: .5rem;
+  padding-bottom: 1rem;
 }
 
 article > p:last-child {
