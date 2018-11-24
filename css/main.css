@@ -49,6 +49,14 @@ article > p:last-child {
   padding-bottom: 1rem;
 }
 
+article p:nth-child(2) {
+  margin-bottom: 10px;
+}
+
+article p:nth-child(3) {
+  margin-top: 0;
+}
+
 blockquote {
   max-width: 24em;
   color: #555;
